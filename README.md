@@ -1,7 +1,7 @@
 # Whiskey_Archive
 
-Project in the works.
-T
+WIP
+
 
 # Thanks
 follow twitter / github / etc
